@@ -1,0 +1,8 @@
+{
+  "domain": "vote-extensions.dev",
+  "repositories": [
+    {
+      "url": "https://github.com/noble-assets/vote-extensions"
+    }
+  ]
+}
